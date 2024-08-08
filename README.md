@@ -1,6 +1,6 @@
 # Blog
 
-> I have another repo for this blog except the backend was written in Bun + Elysia.js. The reason for this rewrite is that Bun took up too much memory on Railway so I decided to rewrite it in Rust
+> I have [another repo](https://github.com/ManeeshWije/blog) for this blog except the backend was written in Bun + Elysia.js. The reason for this rewrite is that Bun took up too much memory on Railway so I decided to rewrite it in Rust
 
 -   Simple blog site written in Axum (Rust), HTMX, and Handlebars templating
 -   Posts are written and stored locally, then the server parsed and stores each one in Postgres
