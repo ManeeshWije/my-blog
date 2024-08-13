@@ -29,6 +29,6 @@ So, the next time you reach for React without a second thought like I did, think
 [^1]: I actually rewrote this site using the same stack just substituting Bun + Elysia.js for Rust + Axum because my Railway memory usage was too high using Bun...
 
 <figure class="flex justify-center items-center flex-col">
-    <img src="/public/images/htmx.png" width="900" alt="htmx-meme"/>
+    <img src="/public/images/htmx.png" class="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl" alt="htmx-meme"/>
     <figcaption>Credits: <a href="https://htmx.org/essays/#memes">HTMX Memes Section</a></figcaption>
 </figure>
